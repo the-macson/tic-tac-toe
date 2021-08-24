@@ -7,3 +7,8 @@ body{
 .button:hover{
     background-color: #379683;
 }
+.footer{
+     text-align: center;
+     font-weight: 600;
+     margin-top: 20px;
+}

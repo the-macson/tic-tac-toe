@@ -108,6 +108,7 @@ const App = () => {
           <FaTimes onClick={() => setIsCross(true)} className="icon" />{" "}
           <FaRegCircle onClick={() => setIsCross(false)} className="icon" />
         </h1>
+        <p className="footer">Made By Mukesh Kumar with 💖</p>
       </Container>
     </>
   );
