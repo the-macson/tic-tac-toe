@@ -1,4 +1,3 @@
-
 # Hi, I'm Mukesh Kumar! 👋
 
   # About Project
@@ -44,8 +43,7 @@ Please adhere to this project's `code of conduct`.
 
   
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (46)](https://user-images.githubusercontent.com/71259159/130560632-15d05056-4331-43f7-b4a0-6c05c33275b9.png)
 
   
 ## Tech Stack
