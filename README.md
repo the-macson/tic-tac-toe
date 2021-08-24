@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Hi, I'm Mukesh Kumar! 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  # About Project
+## Tic Tac Toe
+In this website I created a game Tic Tac Toe using `Reactjs` and some `npm packages`.
+  
 
-## Available Scripts
 
-In the project directory, you can run:
+## Feedback
 
-### `yarn start`
+If you have any feedback, please reach out to us at ak9991927952@gmail.com
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  
+## Run Locally
+You need `npm` and `node` installed in your local system. if you have not installed then first install `npm` and `node` in your local system.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+After that Clone the project
 
-### `yarn test`
+```bash
+  git clone https://github.com/the-macson/tic-tac-toe
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Go to the project directory 
 
-### `yarn build`
+```bash
+  cd .\tic-tac-toe
+```
+```bash
+  npm start
+```
+## Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions are always welcome!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+See `contributing.md` for ways to get started.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Please adhere to this project's `code of conduct`.
 
-### `yarn eject`
+  
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[MIT](https://choosealicense.com/licenses/mit/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  
+## Screenshots
+![Screenshot (46)](https://user-images.githubusercontent.com/71259159/130560632-15d05056-4331-43f7-b4a0-6c05c33275b9.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  
+## Tech Stack
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Client:** React js, Bootstrap.
 
-## Learn More
+  
+## 🚀 About Me
+I' am a Full Stack Web developer and Currently Doing CSE Hons. and Enthusiasts in open source
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-kumar-macson/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_macson)
 
-### Code Splitting
+  
+## Lessons Learned
+Using this Project I Learned how to use React js and how to use bootstrap, toastify, react icon and reactstrap in React js app.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+I learned hooks, jsx, working of react components and many more I learned from this project
 
-### Analyzing the Bundle Size
+  
+## Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+For support, email ak9991927952@gmail.com or join on my social media handle 
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
