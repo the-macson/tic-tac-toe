@@ -19,7 +19,7 @@ $ git clone https://github.com/Your_Username/tic-tac-toe.git
 Once you have cloned the `tic-tac-toe` repository in Github, move to that folder first using change directory command on linux and Mac.
 
 ```sh
-# This will change directory to a folder Algo_Ds_Notes
+# This will change directory to a folder tic-tac-toe
 $ cd tic-tac-toe
 ```
 
@@ -49,8 +49,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/tic-tac-toe.git (fetch)
 origin    https://github.com/Your_Username/tic-tac-toe.git (push)
-upstream  https://github.com/jainaman224/tic-tac-toe.git (fetch)
-upstream  https://github.com/jainaman224/tic-tac-toe.git (push)
+upstream  https://github.com/the-macson/tic-tac-toe.git (fetch)
+upstream  https://github.com/the-macson/tic-tac-toe.git (push)
 ```
 
 ### 4. Sync it :
@@ -68,13 +68,13 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `Algo_Ds_Notes` repo
+# Push changes to your forked `tic-tac-toe` repo
 $ git push origin master
 ```
 
 ### 5. Ready Steady Go...
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/jainaman224/Algo_Ds_Notes/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/the-macson/tic-tac-toe/pulls).
 
 ### 6. Create a new branch :
 
