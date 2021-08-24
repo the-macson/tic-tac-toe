@@ -2,7 +2,7 @@
 
 ### 1. Fork it :
 
-You can get your own fork/copy of [Algo_Ds_Notes](https://github.com/the-macson/tic-tac-toe) by using the <a href="https://github.com/the-macson/tic-tac-toe/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/the-macson/tic-tac-toe/new/master?readme=1#fork-destination-box).
+You can get your own fork/copy of [tic-tac-toe](https://github.com/the-macson/tic-tac-toe) by using the <a href="https://github.com/the-macson/tic-tac-toe/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/the-macson/tic-tac-toe/new/master?readme=1#fork-destination-box).
 
 [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/the-macson/tic-tac-toe)
 
